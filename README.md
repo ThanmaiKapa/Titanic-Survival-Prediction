@@ -93,7 +93,6 @@ Generating predictions for the test dataset.
 1. Open a Python interpreter such as Google Colab or Jupyter Notebook.
 
 2. Clone the repository:
-
 git clone https://github.com/ThanmaiKapa/ML_Project_Hub.git
 
 3. Navigate to the project folder and download the dataset.
