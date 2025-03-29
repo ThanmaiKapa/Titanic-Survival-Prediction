@@ -88,17 +88,35 @@ Generating predictions for the test dataset.
 
 ## How to Run
 
-Open a Python interpreter such as Google Colab or Jupyter Notebook.
+### Option 1: Clone the Repository
 
-Clone the repository:
+1. Open a Python interpreter such as Google Colab or Jupyter Notebook.
 
-git clone https://github.com/ThanmaiKapa/Titanic-Survival-Prediction
+2. Clone the repository:
 
-Navigate to the project folder and download the dataset.
+git clone https://github.com/ThanmaiKapa/ML_Project_Hub.git
 
-Copy the dataset file path and update it in the code.
+3. Navigate to the project folder and download the dataset.
 
-Run the notebook or script to execute the project.
+4. Copy the dataset file path and update it in the code.
+
+5. Run the notebook or script to execute the project.
+
+### Option 2: Download Only the Jupyter Notebook
+
+1. Go to the GitHub repository and open the Jupyter Notebook file (.ipynb).
+
+2. Click on the Raw button to view the raw file.
+
+3. Right-click and select Save As to download the file.
+
+4. Similarly, download the dataset file from the repository.
+
+5. Open the Jupyter Notebook in Google Colab or Jupyter Notebook.
+
+6. Update the dataset file path in the code.
+
+7. Run the notebook to execute the project.
 
 ## Model Performance
 
