@@ -127,7 +127,7 @@ Support Vector Machine Accuracy: 0.72
 
 Since the Random Forest Classifier achieved the highest accuracy, it was chosen for the final prediction model.
 
-Testing the Model
+## Testing the Model
 
 You can input test data and check survival predictions using the code provided in the repository.
 
